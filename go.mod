@@ -1,4 +1,4 @@
-module vtools
+module github.com/guidoenr/vtools
 
 go 1.18
 

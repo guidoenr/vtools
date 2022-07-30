@@ -5,7 +5,8 @@ import (
 )
 
 func TestPrint(t *testing.T) {
-	list := []string{"Hello", "World"}
+	// list := []string{"Hello", "World"}
+	randomVar := 2
 
-	Print("list", list)
+	Print("int", randomVar)
 }
